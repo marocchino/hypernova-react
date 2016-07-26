@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/airbnb/hypernova-react#readme",
   "peerDependencies": {
-    "hypernova": "^1.0.0",
+    "hypernova": "^1.1.0",
     "react": "0.14.x || >= 15.x",
     "react-dom": "0.14.x || >= 15.x"
   },
